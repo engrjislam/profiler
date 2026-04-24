@@ -1,4 +1,10 @@
 # profiler
+[![python virtual environment](https://img.shields.io/badge/python_venv-3.12.3--1ubuntu0.13-green?logo=ubuntu&logoColor=white)](#)
+[![python version](https://img.shields.io/badge/python-3.12.3-blue?logo=python&logoColor=white)](#)
+[![pip version](https://img.shields.io/badge/pip-24.0%20(python%203.12)-orange)](#)
+[![jupyter version](https://img.shields.io/badge/jupyter-1.1.1-purple?logo=jupyter&logoColor=white&labelColor=yellow)](#)
+[![wordcloud version](https://img.shields.io/badge/wordcloud-1.9.6-pink?labelColor=black)](#)
+
 A wordcloud project for creating a profile.
 
 #### Installing & creating virtual environment
