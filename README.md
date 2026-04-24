@@ -53,4 +53,4 @@ Once the [dependencies](#installing-pythons-libs) are installed, run --
 ```
 jupyter notebook
 ```
-The command will run the project and open it in a browser. Open the developer profile and execute the project. 
+The command will run the project and open it in a browser. Open the developer profile and execute the project. Otherwise, visit the [developer_profile.ipynb](http://localhost:8888/notebooks/developer_profile.ipynb)
